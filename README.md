@@ -13,3 +13,8 @@ The project is mainly the recreation of the first stage of the game JunimoKart f
 <video width="320" height="240" controls>
   <source src="./assets/gameplay.mp4" type="video/mp4">
 </video>
+
+
+
+https://github.com/user-attachments/assets/4b8b31dd-087c-4dcc-86c8-7ce4beb4f696
+
