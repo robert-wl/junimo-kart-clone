@@ -15,6 +15,7 @@ The project is mainly the recreation of the first stage of the game JunimoKart f
 </video>
 
 
+https://github.com/user-attachments/assets/ec250f4a-93d8-46a2-bc2b-a53570d72135
 
-https://github.com/user-attachments/assets/4b8b31dd-087c-4dcc-86c8-7ce4beb4f696
+
 
